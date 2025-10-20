@@ -6,8 +6,9 @@ layout: single
 author_profile: true
 ---
 
-📍 **Roadmap** 📍:
--
+🎯*Opera Non Verba*
+
+- 📍 **Roadmap** 📍:
    - [ ] 🎓 Bachelor of Science (B.S.) in Computer Engineering (June 2027)
 
    - [ ] 🌐 Cisco Certified Network Associate (CCNA)
