@@ -9,6 +9,7 @@ author_profile: true
 <h1>🎯 Opera Non Verba</h1>
 
 - 📍 **Roadmap** 📍:
+---
    - [ ] 🎓 Bachelor of Science (B.S.) in Computer Engineering (June 2027)
 
    - [ ] 🌐 Cisco Certified Network Associate (CCNA)
