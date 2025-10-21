@@ -16,11 +16,9 @@
 title: daV1ncci
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
+  Passionate cybersecurity enthusiast with a strong interest in ethical hacking, network security and digital forensics. Constantly learning about the latest threats, vulnerabilities and defense strategies. Enjoys exploring cybersecurity tools, participating in Capture The Flag (CTF) challenges and staying updated with industry trends to help build a safer digital world.
+#twitter_username: username
+github_username: daV1ncci
 minimal_mistakes_skin: neon
 search: true
 
@@ -79,15 +77,15 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    #- label: "Twitter"
+    #  icon: "fab fa-fw fa-twitter-square"
+    #  url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/daV1ncci"
+    #- label: "Instagram"
+    #  icon: "fab fa-fw fa-instagram"
+    #  url: "https://instagram.com/"
 
 defaults:
   # _posts
