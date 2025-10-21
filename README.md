@@ -22,5 +22,3 @@ ___
    - [ ] 🛠️ Practical Training in DFIR and Forensics (May 2026)
 
    - [ ] ⚔️ Offensive Security Certified Professional (OSCP) (June 2027)
-
-🎯 Opera Non Verba
