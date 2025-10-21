@@ -1,27 +1,23 @@
-# Minimal Mistakes remote theme starter
+Passionate cybersecurity enthusiast with a strong interest in ethical hacking, network security and digital forensics. Constantly learning about the latest threats, vulnerabilities and defense strategies. Enjoys exploring cybersecurity tools, participating in Capture The Flag (CTF) challenges and staying updated with industry trends to help build a safer digital world.
 
-Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
+- 📍 **Roadmap** 📍:
+___
+   - [ ] 🎓 Bachelor of Science (B.S.) in Computer Engineering (June 2027)
 
-Contains basic configuration to get you a site with:
+   - [ ] 🌐 Cisco Certified Network Associate (CCNA)
 
-- Sample posts.
-- Sample top navigation.
-- Sample author sidebar with social links.
-- Sample footer links.
-- Paginated home page.
-- Archive pages for posts grouped by year, category, and tag.
-- Sample about page.
-- Sample 404 page.
-- Site wide search.
+   - [ ] 🐧 Linux Professional Institute Certification Level 1 (LPI-1)
 
-Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
+   - [ ] 🔐 Microsoft Security Operations Analyst (SC-300)
 
----
+   - [ ] 🕵️‍♂️ DFIR and Network Forensics Course (March 2026)
 
-## Troubleshooting
+   - [ ] 🖥️ DFIR and Windows Forensics Course (April 2026)
 
-If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
+   - [ ] 🐧 DFIR and Linux Forensics Course (April 2026)
 
-- [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
-- [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
-- [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
+   - [ ] 🛠️ Practical Training in DFIR and Forensics (May 2026)
+
+   - [ ] ⚔️ Offensive Security Certified Professional (OSCP) (June 2027)
+
+🎯 Opera Non Verba
